@@ -39,5 +39,5 @@ versions:
 {% link_with_intro /migrating-from-azure-pipelines-to-github-actions %}
 {% link_with_intro /migrating-from-circleci-to-github-actions %}
 {% link_with_intro /migrating-from-gitlab-cicd-to-github-actions %}
-{% link_with_intro /migrating-from-jenkins-to-github-actions %}
+{% link_with_intro /migrating-fxrom-jenkins-to-github-actions %}
 {% link_with_intro /migrating-from-travis-ci-to-github-actions %}
